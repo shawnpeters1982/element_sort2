@@ -1,5 +1,5 @@
 let img;
-let files1 = ['argon','astatine','barium','beryllium','bromine','caesium','calcium','chlorine', 'fluorine','francium', 'helium','iodine','krypton','lithium', 'magnesium','neon','potassium', 'radium','radon','sodium','strontium','xenon'];
+let files1 = ['argon','astatine','barium','beryllium','bromine','caesium','calcium','chlorine', 'fluorine','francium', 'helium','iodine','kryton','lithium', 'magnesium','neon','potassium', 'radium','radon','sodium','strontium','xenon'];
 //let files2 = [];
 let imgs1 = [];
 //let imgs2 = [];
